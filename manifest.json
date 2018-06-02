@@ -1,0 +1,10 @@
+{
+  "framework-sming": [
+    {
+      "sha1": "241a6b8dfb969588bbaed72e0e09e2b0",
+      "system": "*",
+      "url": "https://github.com/voyo/framework-sming/raw/master/Sming-3.5.2.zip",
+      "version": "3.5.2"
+    }
+  ]
+}
